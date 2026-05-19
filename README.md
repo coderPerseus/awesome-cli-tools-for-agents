@@ -34,3 +34,4 @@ A simple list of CLI tools that can help AI agents handle files, code, data, med
 ## Other
 
 - [`gh`](https://github.com/cli/cli): GitHub CLI for querying issues, pull requests, CI, releases, and automating GitHub workflows.
+- [`agenttrace`](https://github.com/luoyuctl/agenttrace): Local TUI for inspecting AI coding agent session cost, token usage, time, and slow-run diagnostics.
