@@ -16,6 +16,10 @@ A simple list of CLI tools that can help AI agents handle files, code, data, med
 
 - [`jq`](https://github.com/jqlang/jq): JSON querying and transformation tool for handling API responses, logs, and configuration files.
 
+## Agent Memory
+
+- [`Tree Ring Memory`](https://github.com/TerminallyLazy/Tree-Ring-Memory): Local-first memory lifecycle CLI for AI agents with SQLite/FTS recall, forgetting, audit, consolidation, and import/export workflows.
+
 ## Documents and Conversion
 
 - [`pandoc`](https://github.com/jgm/pandoc): Document converter for Markdown, HTML, DOCX, PDF, and many other formats.
