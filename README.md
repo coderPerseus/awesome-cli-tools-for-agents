@@ -30,6 +30,7 @@ A simple list of CLI tools that can help AI agents handle files, code, data, med
 
 - [`lighthouse`](https://github.com/GoogleChrome/lighthouse): Web quality audit tool for performance, accessibility, SEO, and best practices.
 - [`agent-browser`](https://github.com/vercel-labs/agent-browser): Browser automation tool for operating web pages, inspecting page state, and running end-to-end checks.
+- [`Agent QA`](https://github.com/vostride/agent-qa): CLI and MCP server that lets agents run natural-language web and mobile QA workflows.
 
 ## Other
 
