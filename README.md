@@ -34,3 +34,4 @@ A simple list of CLI tools that can help AI agents handle files, code, data, med
 ## Other
 
 - [`gh`](https://github.com/cli/cli): GitHub CLI for querying issues, pull requests, CI, releases, and automating GitHub workflows.
+- [`Hyperconsciousness`](https://github.com/louis030195/hyperconsciousness): Developer-alpha Rust CLI for storing and retrieving encrypted append-only agent notes, with an MCP server and scoped, expiring access grants.
